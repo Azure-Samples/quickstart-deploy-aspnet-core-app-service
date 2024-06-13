@@ -1,6 +1,6 @@
 {
     "name": "Azure Developer CLI",
-    "image": "mcr.microsoft.com/devcontainers/dotnet:7.0-bullseye",
+    "image": "mcr.microsoft.com/devcontainers/dotnet:8.0-bullseye",
     "features": {
         // See https://containers.dev/features for list of features
         

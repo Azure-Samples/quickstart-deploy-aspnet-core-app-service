@@ -19,7 +19,7 @@ The following prerequisites are required to use this application.  Please ensure
     curl -fsSL https://aka.ms/install-azd.sh | bash 
     ```
 
-- [.Net SDK 7.0](https://dotnet.microsoft.com/en-us/download/dotnet/7.0)
+- [.Net SDK 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
 
 - [Git (2.36.1+)](https://git-scm.com/)
 
